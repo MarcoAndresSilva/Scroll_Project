@@ -9,6 +9,7 @@
 <h4>close links </h4>
 <h4>fixed navbar</h4>
 <h4>calculate the height </h4>
+<h4>site responsive </h4>
 
 <h3>Tools & Technologies</h3>
 <p>
